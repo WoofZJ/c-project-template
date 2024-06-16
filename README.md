@@ -1,0 +1,1 @@
+Template for my C projects. Coding Style is from [MaJerle](https://github.com/MaJerle/c-code-style).
